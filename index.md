@@ -71,8 +71,6 @@
   Email: yunhe 'at' tamu.edu
 </li><li>
   Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
-</li><li>
-  I am looking for <strong>2021 internship</strong>, please contact me if you have opening positions.
 </li></ul></div>
 
 
@@ -314,9 +312,9 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <h2>Teaching</h2>
 
   <ul>
-    </li><li>Teaching Assistant: <a href="http://courses.cse.tamu.edu/caverlee/csce470_2016/">CSCE 470 Information Storage and Retrieval</a>, TAMU, Fall, 2017
+    <li>Teaching Assistant: <a href="http://courses.cse.tamu.edu/caverlee/csce470_2016/">CSCE 470 Information Storage and Retrieval</a>, TAMU, Fall, 2017
     </li>
-  </li><li>Teaching Assistant: CSCE 670 Information Storage and Retrieval, TAMU, Spring, 2020
+    <li>Teaching Assistant: CSCE 670 Information Storage and Retrieval, TAMU, Spring, 2020
     </li>
   </ul>
 
@@ -334,9 +332,9 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <div style="padding:1px;"> </div>
 <h2>Professional Services</h2>
 <ul>
-  <li> External Reviewer: WWW'(18)
+  <li> External Reviewer: WWW'(18), WSDM 2020
   </li>
-  <li> Reviewer: TKDE 2018, 2019
+  <li> Reviewer: TKDE 2018, 2019; ACL 2020, 2021
   </li>
 </ul>
 
@@ -369,7 +367,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 </div>
 
 </div>
-</div>
+
 
 
       </div>
