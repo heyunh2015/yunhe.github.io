@@ -71,6 +71,8 @@
   Email: yunhe 'at' tamu.edu
 </li><li>
   Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
+</li><li>
+  I will join Facebook AI as a research intern in 2021 summer.
 </li></ul></div>
 
 
@@ -78,7 +80,7 @@
 <br>
 <br>
 <br>
-Howdy! I am a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of data mining, information retrieval and recommender systems. 
+Howdy! I am a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language process, information retrieval and recommender systems. 
 <br>
 <br>
 Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
@@ -136,7 +138,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <ul>
     <li>Item Relationship Graph Neural Networks for E-Commerce
     <br>
-    IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021
+    IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021
     <br>
     Weiwen Liu, Yin Zhang, Jianling Wang, <strong>Yun He</strong>, James Caverlee, Patrick P. K. Chan, Daniel S. Yeung and Pheng-Ann Heng
     <br>
