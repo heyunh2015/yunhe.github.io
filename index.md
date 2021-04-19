@@ -1,1 +1,1 @@
-![](../images/yunhe5.jpg)
+![](./images/yunhe5.jpg)
