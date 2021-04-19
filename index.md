@@ -134,9 +134,18 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <br>
 <ul>
+    <li>Item Relationship Graph Neural Networks for E-Commerce
+    <br>
+    IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021
+    <br>
+    Weiwen Liu, Yin Zhang, Jianling Wang, <strong>Yun He</strong>, James Caverlee, Patrick P. K. Chan, Daniel S. Yeung and Pheng-Ann Heng
+    <br>
+    </li>
+    <br>	
+	
     <li>Popularity-Opportunity Bias in Collaborative Filtering
     <br>
-    Will appear in <strong>WSDM 2021</strong>
+    <strong>WSDM 2021</strong>
     <br>
     Ziwei Zhu, <strong>Yun He</strong>, Xing Zhao, Yin Zhang, Jianling Wang, and James Caverlee
     <br>
@@ -147,7 +156,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     <a href="https://arxiv.org/pdf/2010.03746.pdf">[pdf]</a>
     <a href="https://github.com/heyunh2015/diseaseBERT">[code]</a>
     <br>
-    Will appear in <strong>EMNLP 2020</strong>
+    <strong>EMNLP 2020</strong>
     <br>
     <strong>Yun He</strong>, Ziwei Zhu, Yin Zhang, Qin Chen and James Caverlee
     <br>
