@@ -43,20 +43,6 @@
 
   <body>
 
-    <div class="topbar">
-      <div class="fill">
-        <div class="container">
-          <!--a class="brand" href="http://students.cse.tamu.edu/hlu/">Home</a-->
-          <ul class="nav">
-              <li><a href="http://people.tamu.edu/~yunhe/">Home</a></li>
-
-
-
-          </ul>
-        </div>
-      </div>
-    </div>
-
     <div class="container">
 
       <div class="content">
@@ -72,7 +58,7 @@
 </div>
 
 <div style="padding:20px;padding-left:200px">
-<h1> &nbsp&nbsp Yun He<span style="font-family:STKaiti">（贺赟)</span></h1>
+<h1>Yun He<span style="font-family:STKaiti">（贺赟)</span></h1>
 <ul style="list-style-type:none">
 
 <li>
