@@ -52,7 +52,7 @@
 
 <div>
 <div style="float:left;padding:13px">
-<img src="./Yun He_files/yunhe5.jpg" height="270px">
+<img src="./Yun He_files/yunhe5.jpg" height="260px">
 </div>
 
 <div style="padding:20px;padding-left:200px">
@@ -167,7 +167,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     <a href="https://arxiv.org/pdf/2010.03725.pdf">[pdf]</a>
     <a href="https://github.com/heyunh2015/PARADE_dataset">[code]</a>
     <br>
-    Will appear in <strong>EMNLP 2020</strong>
+    <strong>EMNLP 2020</strong>
     <br>
     <strong>Yun He</strong>, Zhuoer Wang, Yin Zhang, Ruihong Huang and James Caverlee
     <br>
