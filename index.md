@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0033)http://students.cse.tamu.edu/hlu/ -->
 <html lang="en"><head>
   <style>
      .crimson {
