@@ -175,7 +175,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     <br>
 
     <li>Consistency-Aware Recommendation for User-Generated Item Lists Continuation.
-    <a href="http://people.tamu.edu/~yunhe/pubs/WSDM2020.pdf">[pdf]</a>
+    <a href="https://arxiv.org/pdf/1912.13031.pdf">[pdf]</a>
     <a href="https://github.com/heyunh2015/ListContinuation_WSDM2020">[code]</a>
     <br>
     International Conference on Web Search and Data Mining (<strong>WSDM 2020</strong>)
@@ -212,7 +212,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 
 
     <li>A Hierarchical Self-Attentive Model for Recommending User-Generated Item Lists.
-    <a href="http://people.tamu.edu/~yunhe/pubs/AttListCIKM2019.pdf">[pdf]</a>
+    <a href="https://arxiv.org/pdf/1912.13023.pdf">[pdf]</a>
     <a href="https://github.com/heyunh2015/AttList">[code]</a>
     <br>
     International Conference on Information and Knowledge Management (<strong>CIKM 2019</strong>).
@@ -230,7 +230,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     <br>
 
 	<li>Pseudo-Implicit Feedback for Alleviating Data Sparsity in Top-K Recommendation. (acceptance rate: 20%)
-    <a href="http://people.tamu.edu/~yunhe/pubs/PsiRecICDM2018.pdf">[pdf]</a>
+    <a href="https://arxiv.org/pdf/1901.00597.pdf">[pdf]</a>
     <a href="https://github.com/heyunh2015/PsiRecICDM2018">[code]</a>
     <br>
     IEEE International Conference on Data Mining (<strong>ICDM 2018</strong>).
