@@ -60,7 +60,7 @@
 <ul style="list-style-type:none">
 
 <li>
-  Fourth-Year Ph.D. Student
+  Ph.D. Candidate (fifth year)
 </li><li>
   <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>
 </li><li>
@@ -72,7 +72,7 @@
 </li><li>
   Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
 </li><li>
-  I will join Facebook AI as a research intern in 2021 summer.
+  I will join Google Brain as a research intern in 2021 Fall.
 </li></ul></div>
 
 
@@ -87,6 +87,15 @@ Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/193
 <br>
 <br>
 <h2>Research Experience</h2>
+<h3>Research Intern, Facebook Inc. (May 2021 – August 2021)</h3>
+Mentor: <a href="https://www.linkedin.com/in/xyzhang0814/">Dr. Xinyi Zhang</a>
+<br>
+Team: Facebook AI Applied Research (FAIAR)
+<br>
+Research Project: User history modeling for recommender system.
+<br>
+
+<br>
 <h3>Research Intern, Facebook Inc. (June 2020 – September 2020)</h3>
 Mentor: <a href="https://www.linkedin.com/in/xuefenghere/">Dr. Xue Feng</a>
 <br>
@@ -136,6 +145,15 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <br>
 <ul>
+    <li>Popularity Bias in Dynamic Recommendation
+    <br>
+    IEEE Transactions on Neural Networks and Learning Systems (<strong>KDD</strong>), 2021
+    <br>
+    Ziwei Zhu, <strong>Yun He</strong>, Xing Zhao and James Caverlee
+    <br>
+    </li>
+    <br>
+	
     <li>Item Relationship Graph Neural Networks for E-Commerce
     <br>
     IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021
@@ -345,7 +363,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <ul>
   <li> External Reviewer: WWW'(18), WSDM 2020
   </li>
-  <li> Reviewer: TKDE 2018, 2019; ACL 2020, 2021
+  <li> Reviewer: SNAM2019; TKDE 2018, 2019; ACL 2020, 2021; EMNLP 2021; IEEE Intelligent Systems 2021; Neurocomputing 2021; 
   </li>
 </ul>
 
