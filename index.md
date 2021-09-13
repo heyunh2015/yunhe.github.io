@@ -147,7 +147,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <ul>
     <li>Popularity Bias in Dynamic Recommendation
     <br>
-    IEEE Transactions on Neural Networks and Learning Systems (<strong>KDD</strong>), 2021
+    Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2021
     <br>
     Ziwei Zhu, <strong>Yun He</strong>, Xing Zhao and James Caverlee
     <br>
