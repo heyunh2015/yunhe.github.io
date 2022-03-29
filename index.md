@@ -72,7 +72,7 @@
 </li><li>
   Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
 </li><li>
-  I will join Google Brain as a research intern in 2021 Fall.
+  I will join Meta (Facebook) AI as a research Scientist in 2022 Summer.
 </li></ul></div>
 
 
@@ -80,13 +80,22 @@
 <br>
 <br>
 <br>
-Howdy! I am a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language process, information retrieval and recommender systems. 
+Howdy! I am a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language processing, information retrieval and recommender systems. 
 <br>
 <br>
 Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
 <br>
 <br>
 <h2>Research Experience</h2>
+<h3>Research Intern, Google Inc. (September 2021 – December 2021)</h3>
+Mentor: <a href="https://scholar.google.com/citations?hl=en&user=PyK4x4wAAAAJ&view_op=list_works">Dr. Huaixiu Zheng</a>
+<br>
+Team: Brain
+<br>
+Research Project: A novel prompt-tuning method for transformer-based multi-task co-training
+<br>
+
+<br>
 <h3>Research Intern, Facebook Inc. (May 2021 – August 2021)</h3>
 Mentor: <a href="https://www.linkedin.com/in/xyzhang0814/">Dr. Xinyi Zhang</a>
 <br>
@@ -145,6 +154,17 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <br>
 <ul>
+    <li>MetaBalance: Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks
+    <a href="https://arxiv.org/pdf/2203.06801.pdf">[pdf]</a>
+    <a href="https://github.com/facebookresearch/MetaBalance">[code]</a>
+    <br>
+    The WebConference (<strong>WWW</strong>), 2022
+    <br>
+    <strong>Yun He</strong>, Xue Feng, Cheng Cheng, Geng Ji, Yunsong Guo, James Caverlee
+    <br>
+    </li>
+    <br>	
+	
     <li>Popularity Bias in Dynamic Recommendation
     <br>
     Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2021
