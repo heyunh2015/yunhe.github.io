@@ -2,9 +2,7 @@
 
   <body>
 
-    <div class="container">
 
-      <div class="content">
         
 
 <div class="row">
