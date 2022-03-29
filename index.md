@@ -178,7 +178,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     <br>
     The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2021)
     <br>
-    Yin Zhang, Yun He, James Caverlee
+    Yin Zhang, <strong>Yun He</strong> and James Caverlee
     <br>
     </li>
     <br>
