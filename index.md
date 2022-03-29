@@ -88,7 +88,7 @@ Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/193
 <br>
 <h2>Research Experience</h2>
 <h3>Research Intern, Google Inc. (September 2021 – December 2021)</h3>
-Mentor: <a href="https://scholar.google.com/citations?hl=en&user=PyK4x4wAAAAJ&view_op=list_works">Dr. Huaixiu Zheng</a>
+Mentor: <a href="https://scholar.google.com/citations?hl=en&user=PyK4x4wAAAAJ&view_op=list_works">Dr. Huaixiu Zheng</a> and <a href="https://vanzytay.github.io/bio/">Dr. Yi Tay</a>
 <br>
 Team: Brain
 <br>
@@ -170,6 +170,15 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2021
     <br>
     Ziwei Zhu, <strong>Yun He</strong>, Xing Zhao and James Caverlee
+    <br>
+    </li>
+    <br>
+	
+    <li>Vibe Check: Social Resonance Learning for Enhanced Recommendation.
+    <br>
+    The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2021)
+    <br>
+    Yin Zhang, Yun He, James Caverlee
     <br>
     </li>
     <br>
@@ -383,7 +392,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <ul>
   <li> External Reviewer: WWW'(18), WSDM 2020
   </li>
-  <li> Reviewer: SNAM2019; TKDE 2018, 2019; ACL 2020, 2021; EMNLP 2021; IEEE Intelligent Systems 2021; Neurocomputing 2021; 
+  <li> Reviewer: SNAM2019; TKDE 2018, 2019; ACL Demo Track 2020, 2021, 2022; EMNLP 2021; NAACL demo Track 2022; IEEE Intelligent Systems 2021; Neurocomputing 2021; 
   </li>
 </ul>
 
