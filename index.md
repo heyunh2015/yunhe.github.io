@@ -154,6 +154,16 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <br>
 <ul>
+    <li>HyperPrompt: Prompt-based Task-Conditioning of Transformers
+    <a href="[https://arxiv.org/pdf/2203.06801.pdf](https://arxiv.org/pdf/2203.00759.pdf)">[pdf]</a>
+    <br>
+    International Conference on Machine Learning (<strong>ICML</strong>), 2022
+    <br>
+    <strong>Yun He</strong>, Huaixiu Steven Zheng, Yi Tay, Jai Gupta, Yu Du, Vamsi Aribandi, Zhe Zhao, YaGuang Li, Zhao Chen, Donald Metzler, Heng-Tze Cheng and Ed H. Chi
+    <br>
+    </li>
+    <br>	
+	
     <li>MetaBalance: Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks
     <a href="https://arxiv.org/pdf/2203.06801.pdf">[pdf]</a>
     <a href="https://github.com/facebookresearch/MetaBalance">[code]</a>
