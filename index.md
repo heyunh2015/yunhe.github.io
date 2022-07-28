@@ -155,7 +155,7 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <ul>
     <li>HyperPrompt: Prompt-based Task-Conditioning of Transformers
-    <a href="[https://arxiv.org/pdf/2203.06801.pdf](https://arxiv.org/pdf/2203.00759.pdf)">[pdf]</a>
+    <a href="https://arxiv.org/pdf/2203.00759.pdf">[pdf]</a>
     <br>
     International Conference on Machine Learning (<strong>ICML</strong>), 2022
     <br>
