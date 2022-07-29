@@ -60,7 +60,7 @@
 <ul style="list-style-type:none">
 
 <li>
-  I am a Research Scientist at Meta (Facebook) AI since 2022 July.
+  I am a Research Scientist at Meta (Facebook) AI since July 2022.
 </li><li>
   <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>
 </li><li>
