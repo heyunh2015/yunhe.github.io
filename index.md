@@ -72,7 +72,7 @@
 </li><li>
   Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
 </li><li>
-  I will join Meta (Facebook) AI as a research Scientist in 2022 Summer.
+  I am a research Scientist at Meta (Facebook) AI since 2022 July.
 </li></ul></div>
 
 
