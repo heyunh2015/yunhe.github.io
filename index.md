@@ -402,8 +402,11 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <ul>
   <li> External Reviewer: WWW'(18), WSDM 2020
   </li>
-  <li> Reviewer: SNAM2019; TKDE 2018, 2019; ACL Demo Track 2020, 2021, 2022; EMNLP 2021; NAACL demo Track 2022; IEEE Intelligent Systems 2021; Neurocomputing 2021; 
+  <li> Reviewer for journals: SNAM2019; TKDE 2018, 2019;  Neurocomputing 2021; IEEE Intelligent Systems 2021; Information Fusion 2022; Natural Language Engineering 2022
   </li>
+<li>
+       Reviewer for conferences: ACL Demo Track 2020, 2021, 2022; EMNLP 2021, 2022; NAACL demo Track 2022; WSDM 2022; Neurips 2022; AAAI 2023; 
+</li>
 </ul>
 
 <div style="padding:1px;"> </div>
