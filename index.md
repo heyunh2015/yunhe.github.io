@@ -80,7 +80,6 @@ Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/193
 <br>
 <h2>Research Experience</h2>
 <h3>Research Scientist, Meta AI. (September 2021 – December 2021)</h3>
-<br>
 Research Project: Multi-objectives and multi-task optimization balancing
 <br>
 
