@@ -60,19 +60,11 @@
 <ul style="list-style-type:none">
 
 <li>
-  I am a Research Scientist at Meta (Facebook) AI since July 2022.
+  I am a Research Scientist at Meta (Facebook).
 </li><li>
-  <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>
-</li><li>
-  <a href="https://www.tamu.edu/">Texas A&amp;M University</a>
-</li><li>
-  Office: 408D, H.R. Bright Building, College Station, TX, 77843
-</li><li>
-  Email: yunhe 'at' tamu.edu
+  Email: heyunyun2014 'at' gmail.com
 </li><li>
   Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
-</li><li>
-  Defended my PhD dissertation on May 2022.
 </li></ul></div>
 
 
@@ -80,35 +72,34 @@
 <br>
 <br>
 <br>
-Howdy! I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language processing, information retrieval and recommender systems. 
+Howdy! I am a research scientist at Meta AI. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language processing, information retrieval and recommender systems. 
 <br>
 <br>
 Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
 <br>
 <br>
 <h2>Research Experience</h2>
-<h3>Research Intern, Google Inc. (September 2021 – December 2021)</h3>
-Mentor: <a href="https://scholar.google.com/citations?hl=en&user=PyK4x4wAAAAJ&view_op=list_works">Dr. Huaixiu Zheng</a> and <a href="https://vanzytay.github.io/bio/">Dr. Yi Tay</a>
+<h3>Research Scientist, Meta AI. (September 2021 – December 2021)</h3>
 <br>
-Team: Brain
+Research Project: Multi-objectives and multi-task optimization balancing
+<br>
+
+<h3>Research Intern, Google Brain. (September 2021 – December 2021)</h3>
+Mentor: <a href="https://scholar.google.com/citations?hl=en&user=PyK4x4wAAAAJ&view_op=list_works">Dr. Huaixiu Zheng</a> and <a href="https://vanzytay.github.io/bio/">Dr. Yi Tay</a>
 <br>
 Research Project: A novel prompt-tuning method for transformer-based multi-task co-training
 <br>
 
 <br>
-<h3>Research Intern, Facebook Inc. (May 2021 – August 2021)</h3>
+<h3>Research Intern, Facebook AI. (May 2021 – August 2021)</h3>
 Mentor: <a href="https://www.linkedin.com/in/xyzhang0814/">Dr. Xinyi Zhang</a>
-<br>
-Team: Facebook AI Applied Research (FAIAR)
 <br>
 Research Project: User history modeling for recommender system.
 <br>
 
 <br>
-<h3>Research Intern, Facebook Inc. (June 2020 – September 2020)</h3>
+<h3>Research Intern, Facebook AI. (June 2020 – September 2020)</h3>
 Mentor: <a href="https://www.linkedin.com/in/xuefenghere/">Dr. Xue Feng</a>
-<br>
-Team: Facebook AI Applied Research (FAIAR)
 <br>
 Research Project: Automatic balancing multiple training loss terms to improve multi-task learning-based recommender system.
 <br>
