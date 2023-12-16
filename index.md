@@ -60,11 +60,11 @@
 <ul style="list-style-type:none">
 
 <li>
-  I am a Research Scientist at Meta (Facebook).
+  I am a Senior Research Scientist at Meta (Facebook).
 </li><li>
   Email: heyunyun2014 'at' gmail.com
 </li><li>
-  Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval.
+  Research Interests: Natural Language Processing, Recommender Systems and Information Retrieval. Multi-task Learning. Multi-objective Optimization.
 </li></ul></div>
 
 
@@ -72,14 +72,15 @@
 <br>
 <br>
 <br>
-Howdy! I am a research scientist at Meta AI. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language processing, information retrieval and recommender systems. 
+Howdy! I am a senior research scientist at Meta AI. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language processing, information retrieval and recommender systems. 
 <br>
 <br>
 Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
 <br>
 <br>
 <h2>Research Experience</h2>
-<h3>Research Scientist, Meta AI. (July 2022 – Present)</h3>
+<h3>Senior Research Scientist, Meta AI. (Aug 2023 – Present)</h3>
+<h3>Research Scientist, Meta AI. (July 2022 – July 2023)</h3>
 Research Project: Multi-objectives and multi-task optimization balancing
 <br>
 
@@ -144,6 +145,16 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <br>
 <ul>
+    <li>PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts
+    <a href="https://arxiv.org/pdf/2306.04535.pdf">[pdf]</a>
+    <br>
+    (<strong>ACL</strong>) (findings), 2023
+    <br>
+    Xiangjue Dong, <strong>Yun He</strong>, Ziwei Zhu, James Caverlee
+    <br>
+    </li>
+    <br>
+ 
     <li>HyperPrompt: Prompt-based Task-Conditioning of Transformers
     <a href="https://arxiv.org/pdf/2203.00759.pdf">[pdf]</a>
     <br>
