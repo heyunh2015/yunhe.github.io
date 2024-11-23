@@ -80,7 +80,7 @@ Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/193
 <br>
 <h2>Research Experience</h2>
 <h3>Senior Research Scientist, Meta AI. (Aug 2023 – Present)</h3>
-Research Project: Multi-turn instruction following, planning and tool usage.
+Research Project: Large language model, Multi-turn instruction following, Planning and tool usage.
 <br>
 <br>
 
