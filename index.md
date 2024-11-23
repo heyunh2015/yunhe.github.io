@@ -72,7 +72,7 @@
 <br>
 <br>
 <br>
-Howdy! I am a senior research scientist at Meta GenAI. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. I'm broadly interested in the area of natural language processing, information retrieval and recommender systems. 
+Howdy! I am a senior research scientist at Meta GenAI. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>.  
 <br>
 <br>
 Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
@@ -80,8 +80,8 @@ Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/193
 <br>
 <h2>Research Experience</h2>
 <h3>Senior Research Scientist, Meta AI. (Aug 2023 – Present)</h3>
-<br>
 Research Project: Multi-turn instruction following, planning and tool usage.
+<br>
 <br>
 
 <h3>Research Scientist, Meta AI. (July 2022 – July 2024)</h3>
