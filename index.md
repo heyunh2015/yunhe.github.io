@@ -80,12 +80,12 @@ Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/193
 <br>
 <h2>Research Experience</h2>
 <h3>Senior Research Scientist, Meta. (Aug 2023 – Present)</h3>
-Research Project: Large language model, Multi-turn instruction following, Planning and tool usage.
+Research Project: Chatbot System
 <br>
 <br>
 
 <h3>Research Scientist, Meta. (July 2022 – July 2024)</h3>
-Research Project: Multi-objectives and multi-task optimization balancing
+Research Project: Recommender System
 <br>
 <br>
 
