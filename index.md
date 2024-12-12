@@ -60,11 +60,11 @@
 <ul style="list-style-type:none">
 
 <li>
-  I am a Senior Research Scientist at Meta GenAI.
+  I am a Senior Research Scientist at Meta.
 </li><li>
   Email: heyunyun2014 'at' gmail.com
 </li><li>
-  Research Interests: LLM multi-turn instruction following, reasoning and tool usage. Multi-task Learning. Multi-objective Optimization.
+  Research Interests: Natural language processing, recommender system.
 </li></ul></div>
 
 
@@ -72,19 +72,19 @@
 <br>
 <br>
 <br>
-Howdy! I am a senior research scientist at Meta GenAI. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>.  
+Howdy! I am a senior research scientist at Meta. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>.  
 <br>
 <br>
 Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
 <br>
 <br>
 <h2>Research Experience</h2>
-<h3>Senior Research Scientist, Meta AI. (Aug 2023 – Present)</h3>
+<h3>Senior Research Scientist, Meta. (Aug 2023 – Present)</h3>
 Research Project: Large language model, Multi-turn instruction following, Planning and tool usage.
 <br>
 <br>
 
-<h3>Research Scientist, Meta AI. (July 2022 – July 2024)</h3>
+<h3>Research Scientist, Meta. (July 2022 – July 2024)</h3>
 Research Project: Multi-objectives and multi-task optimization balancing
 <br>
 <br>
@@ -96,14 +96,14 @@ Research Project: A novel prompt-tuning method for transformer-based multi-task 
 <br>
 
 <br>
-<h3>Research Intern, Facebook AI. (May 2021 – August 2021)</h3>
+<h3>Research Intern, Facebook. (May 2021 – August 2021)</h3>
 Mentor: <a href="https://www.linkedin.com/in/xyzhang0814/">Dr. Xinyi Zhang</a>
 <br>
 Research Project: User history modeling for recommender system.
 <br>
 
 <br>
-<h3>Research Intern, Facebook AI. (June 2020 – September 2020)</h3>
+<h3>Research Intern, Facebook. (June 2020 – September 2020)</h3>
 Mentor: <a href="https://www.linkedin.com/in/xuefenghere/">Dr. Xue Feng</a>
 <br>
 Research Project: Automatic balancing multiple training loss terms to improve multi-task learning-based recommender system.
@@ -198,15 +198,6 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
     <br>
     </li>
     <br>
-	
-    <li>Item Relationship Graph Neural Networks for E-Commerce
-    <br>
-    IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021
-    <br>
-    Weiwen Liu, Yin Zhang, Jianling Wang, <strong>Yun He</strong>, James Caverlee, Patrick P. K. Chan, Daniel S. Yeung and Pheng-Ann Heng
-    <br>
-    </li>
-    <br>	
 	
     <li>Popularity-Opportunity Bias in Collaborative Filtering
     <br>
