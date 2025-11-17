@@ -145,8 +145,8 @@ Research Interests: Information Retrieval in Biomedical Domain (<strong>ECIR’2
 
 
 <div style="padding:10px;"> </div>
-<h2>Publications</h2>
-See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
+<h2>Selected Publications</h2>
+See also my full publication list at <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
 <br>
 <br>
 <ul>
@@ -211,7 +211,8 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     <br>
     </li>
     <br>	
-	
+
+	<!--
     <li>Popularity Bias in Dynamic Recommendation
     <br>
     Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2021
@@ -238,6 +239,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     <br>
     </li>
     <br>
+	-->
 
     <li>Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition
     <a href="https://arxiv.org/pdf/2010.03746.pdf">[pdf]</a>
@@ -271,6 +273,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     </li>
     <br>
 
+	<!--
     <li>Unbiased Implicit Recommendation and Propensity Estimation via Combinational Joint Learning (short) 
     <br>
     <strong>Recsys 2020</strong>
@@ -296,7 +299,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     Yin Zhang, <strong>Yun He</strong>, Jianling Wang, James Caverlee.
     </li>
     <br>
-
+	-->
 
     <li>A Hierarchical Self-Attentive Model for Recommending User-Generated Item Lists.
     <a href="https://arxiv.org/pdf/1912.13023.pdf">[pdf]</a>
@@ -308,6 +311,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     </li>
     <br>
 
+	<!--
     <li>Self-Attention based Network For Query Expansion in Medical Domain.
     <br>
     International Joint Conference on Neural Networks (<strong>IJCNN 2019</strong>).
@@ -315,6 +319,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     Su Chen, Qinmin Hu, Yang Song, <strong>Yun He</strong>, Huaying Wu and Liang He
     </li>
     <br>
+	-->
 
 	<li>Pseudo-Implicit Feedback for Alleviating Data Sparsity in Top-K Recommendation. (acceptance rate: 20%)
     <a href="https://arxiv.org/pdf/1901.00597.pdf">[pdf]</a>
@@ -395,6 +400,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     <br>
 </ul>
 
+<!--
 <div style="padding:1px;"> </div>
 <h2>Industry Engineering Experience</h2>
   <ul>
@@ -403,6 +409,7 @@ See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAA
     <br><strong>Project</strong>: Searching for Duplicate Registrations of Customers.
     </li>
   </ul>
+-->
 
 <div style="padding:1px;"> </div>
 <h2>Teaching</h2>
