@@ -146,7 +146,7 @@ Research Interests: Information Retrieval in Biomedical Domain (<strong>ECIR’2
 
 <div style="padding:10px;"> </div>
 <h2>Publications</h2>
-See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=gnDm-TIAAAAJ">Google Scholar profile</a>.
+See also my <a href="https://scholar.google.com/citations?hl=en&user=XAM8--8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
 <br>
 <br>
 <ul>
