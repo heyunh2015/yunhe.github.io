@@ -60,11 +60,11 @@
 <ul style="list-style-type:none">
 
 <li>
-  I am a Senior Research Scientist at Meta.
+  I am a Senior Research Scientist at Meta, Meta Superintelligence Labs (MSL).
 </li><li>
   Email: heyunyun2014 'at' gmail.com
 </li><li>
-  Research Interests: Natural language processing, recommender system.
+  Research Interests: LLM, RLHF, LLM post-training
 </li></ul></div>
 
 
@@ -72,15 +72,15 @@
 <br>
 <br>
 <br>
-Howdy! I am a senior research scientist at Meta. I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>.  
+Howdy! I am a senior research scientist at Meta (Meta Superintelligence Labs (MSL)), working on LLM post-training for Meta AI Assistant. 
 <br>
 <br>
-Previously, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
+Previously, I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. Before that, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
 <br>
 <br>
 <h2>Research Experience</h2>
 <h3>Senior Research Scientist, Meta. (Aug 2023 – Present)</h3>
-Research Project: Chatbot System
+Research Project: LLM post-training for Meta AI assistant
 <br>
 <br>
 
@@ -110,7 +110,7 @@ Research Project: Automatic balancing multiple training loss terms to improve mu
 <br>
 
 <br>
-<h3>Research Assistant, Texas A&amp;M University (Fall 2017 – present)</h3>
+<h3>Research Assistant, Texas A&amp;M University (Fall 2017 – 2022)</h3>
 
 Advisor: <a href="http://faculty.cse.tamu.edu/caverlee/">Dr. James Caverlee</a>
 <br>
@@ -118,7 +118,7 @@ Research Interests: Natural Language Processing and Recommender System
 <br>
 <br>
 
-<li>Research Project 3 <span class="crimson">(New)</span>: Infusing disease knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition (will appear in <strong>EMNLP’2020</strong>)</li>
+<!-- <li>Research Project 3 <span class="crimson">(New)</span>: Infusing disease knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition (will appear in <strong>EMNLP’2020</strong>)</li>
 <br>
 
 <li>Research Project 2 <span class="crimson">(New)</span>: We propose a new dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge (will appear in <strong>EMNLP’2020</strong>)</li>
@@ -150,6 +150,37 @@ See also my <a href="https://scholar.google.com/citations?view_op=list_works&hl=
 <br>
 <br>
 <ul>
+	<br>
+	<li>Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following
+    <a href="https://arxiv.org/pdf/2511.10507">[pdf]</a>
+    <br>
+    Arxiv, 2025
+    <br>
+    <strong>Yun He*</strong>, Wenzhe Li*, Hejia Zhang*, Songlin Li*, etc.
+    <br>
+    </li>
+	<br>
+
+	<li>Dual-Weighted Reinforcement Learning for Generative Preference Modeling
+    <a href="https://arxiv.org/pdf/2510.15242?">[pdf]</a>
+    <br>
+    Arxiv, 2025
+    <br>
+    Shengyu Feng, <strong>Yun He (corresponding author)</strong>, Shuang Ma, Beibin Li, etc.
+    <br>
+    </li>
+	<br>
+	
+	<li>Multi-if: Benchmarking llms on multi-turn and multilingual instructions following
+    <a href="https://arxiv.org/pdf/2410.15553">[pdf]</a>
+    <br>
+    Arxiv, 2024
+    <br>
+    <strong>Yun He*</strong>, Di Jin*, Chaoqi Wang*, Chloe Bi*, etc.
+    <br>
+    </li>
+	<br>
+	
     <li>PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts
     <a href="https://arxiv.org/pdf/2306.04535.pdf">[pdf]</a>
     <br>
