@@ -1,9 +1,109 @@
 <html lang="en"><head>
   <style>
+     :root {
+       --bg: #f5f3ee;
+       --card: #ffffff;
+       --text: #1a1a1a;
+       --muted: #5a5a5a;
+       --accent: #124e66;
+       --line: #e7e2d8;
+     }
+
+     * { box-sizing: border-box; }
+
+     body {
+       margin: 0;
+       background: var(--bg);
+       color: var(--text);
+       font-family: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+       line-height: 1.6;
+     }
+
+     a {
+       color: var(--accent);
+       text-decoration: none;
+       border-bottom: 1px solid rgba(18, 78, 102, 0.25);
+     }
+     a:hover { border-bottom-color: var(--accent); }
+
+     .container {
+       max-width: 980px;
+       margin: 24px auto 56px;
+       padding: 0 20px;
+     }
+
+     .content {
+       background: var(--card);
+       border-radius: 16px;
+       padding: 28px 36px 40px;
+       box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+     }
+
+     h1, h2, h3 { font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif; }
+     h1 { margin: 0 0 8px; font-size: 34px; }
+     h2 { margin: 32px 0 12px; font-size: 22px; letter-spacing: 0.4px; }
+     h3 { margin: 20px 0 6px; font-size: 18px; }
+
+     ul {
+       margin: 8px 0 0;
+       padding-left: 18px;
+     }
+     li { margin: 6px 0; }
+
+     .hero {
+       display: flex;
+       gap: 24px;
+       align-items: center;
+       border-bottom: 1px solid var(--line);
+       padding-bottom: 22px;
+       margin-bottom: 20px;
+     }
+
+     .hero-media img {
+       width: 190px;
+       height: 240px;
+       object-fit: cover;
+       border-radius: 14px;
+       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+     }
+
+     .hero-title {
+       font-size: 16px;
+       color: var(--muted);
+       margin: 0 0 10px;
+     }
+
+     .hero-line {
+       margin: 4px 0;
+     }
+
+     .name-zh {
+       font-family: "Noto Serif SC", "Songti SC", "STKaiti", serif;
+       font-size: 20px;
+       color: var(--muted);
+     }
+
+     .intro {
+       margin: 8px 0 0;
+       color: var(--text);
+     }
+
+     .section-block {
+       padding-bottom: 8px;
+       border-bottom: 1px dashed var(--line);
+       margin-bottom: 18px;
+     }
+
      .crimson {
-        color: #DC143C;
-        font-weight: bold;
-      }
+       color: #DC143C;
+       font-weight: bold;
+     }
+
+     @media (max-width: 720px) {
+       .hero { flex-direction: column; align-items: flex-start; }
+       .hero-media img { width: 100%; height: auto; max-width: 320px; }
+       .content { padding: 22px; }
+     }
   </style>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -17,8 +117,11 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="./Yun He_files/bootstrap.css" rel="stylesheet">
-    <link href="./Yun He_files/style.css" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:wght@400;500;600&family=Noto+Serif+SC:wght@500;600&display=swap" rel="stylesheet">
+  <link href="./Yun He_files/bootstrap.css" rel="stylesheet">
+  <link href="./Yun He_files/style.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -50,34 +153,24 @@
   <div class="span14">
     
 
-<div>
-<div style="float:left;padding:13px">
-<img src="./Yun He_files/yunhe5.jpg" height="260px">
+<div class="hero">
+  <div class="hero-media">
+    <img src="./Yun He_files/yunhe5.jpg" alt="Yun He portrait">
+  </div>
+  <div class="hero-text">
+    <h1>Yun He <span class="name-zh">（贺赟)</span></h1>
+    <p class="hero-title">Senior Research Scientist, Meta Superintelligence Labs (MSL)</p>
+    <p class="hero-line">Research: LLM, RLHF, LLM post-training</p>
+    <p class="hero-line">Email: heyunyun2014 'at' gmail.com</p>
+  </div>
 </div>
 
-<div style="padding:20px;padding-left:200px">
-<h1>Yun He<span style="font-family:STKaiti">（贺赟)</span></h1>
-<ul style="list-style-type:none">
-
-<li>
-  I am a Senior Research Scientist at Meta, Meta Superintelligence Labs (MSL).
-</li><li>
-  Email: heyunyun2014 'at' gmail.com
-</li><li>
-  Research Interests: LLM, RLHF, LLM post-training
-</li></ul></div>
-
-
-
-<br>
-<br>
-<br>
-Howdy! I am a senior research scientist at Meta (Meta Superintelligence Labs (MSL)), working on LLM post-training for Meta AI Assistant. 
-<br>
-<br>
-Previously, I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. Before that, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
-<br>
-<br>
+<p class="intro">
+  Howdy! I am a senior research scientist at Meta (Meta Superintelligence Labs (MSL)), working on LLM post-training for Meta AI Assistant.
+</p>
+<p class="intro">
+  Previously, I was a member of the <a href="http://infolab.tamu.edu/">infolab</a> led by Prof. <a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a> in the <a href="http://engineering.tamu.edu/cse/">Computer Science &amp; Engineering Department</a>&nbsp;at&nbsp;<a href="https://www.tamu.edu/">Texas A&amp;M University</a>. Before that, I was at the <a href="http://www.cs.ecnu.edu.cn/s/69/t/247/p/1/c/1932/d/14978/list.htm">ICA lab</a> in the <a href="http://www.sei.ecnu.edu.cn/">School of Computer Science and Software Engineering</a>&nbsp;at&nbsp;<a href="http://english.ecnu.edu.cn/">East China Normal University</a> and worked with <a href="https://www.ryerson.ca/cs/our-people/qinmin-vivian-hu/">Dr. Qinmin Hu</a> and <a href="http://lhe9191.vicp.net:81/~lhe/">Dr. Liang He</a>. I obtained my Bachelor's degree from <a href="http://english.dhu.edu.cn/">Donghua University</a>.
+</p>
 <h2>Research Experience</h2>
 <h3>Senior Research Scientist, Meta. (Aug 2023 – Present)</h3>
 Research Project: LLM post-training for Meta AI assistant
@@ -458,8 +551,6 @@ See also my full publication list at <a href="https://scholar.google.com/citatio
   <li>National Second Prize in National College Mathematical Contest in Modeling
   </li>
 </ul>
-
-</div>
 
 <div style="padding:1px;"> </div>
 <h2>Personal</h2>
